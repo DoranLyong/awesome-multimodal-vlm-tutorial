@@ -1,1 +1,1 @@
-# langchain-tutorial-kor
+# LangChain Tutorial(Kor)
